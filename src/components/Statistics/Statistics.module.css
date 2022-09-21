@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+justify-content: center;
+background-color: bisque;
+}
+.list {
+   margin-top: 10px;
+}
+.item {
+    text-align: center;
+    margin-bottom: 5px;
+}
+
